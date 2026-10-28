@@ -5,6 +5,7 @@
 /// farmers. Judges can watch events appear and also push
 /// new mock events manually.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

@@ -1,4 +1,5 @@
 /// Barrel file for all widgets.
+library;
 export 'campaign_card.dart';
 export 'basket_tier_card.dart';
 export 'timeline_tile.dart';

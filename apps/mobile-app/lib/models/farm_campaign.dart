@@ -6,6 +6,7 @@
 /// can fund via Solidarity Baskets. This is the core unit
 /// of the mutual-aid farming model.
 /// ============================================================
+library;
 
 class FarmCampaign {
   final String id;

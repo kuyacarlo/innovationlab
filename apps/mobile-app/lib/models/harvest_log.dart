@@ -5,6 +5,7 @@
 /// harvest / activity timeline ("Mag-Ulat"). Displayed on
 /// the Farmer Impact Screen for consumers to see real activity.
 /// ============================================================
+library;
 
 enum LogType {
   harvest,

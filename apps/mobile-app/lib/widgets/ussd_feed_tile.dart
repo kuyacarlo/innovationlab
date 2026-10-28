@@ -4,6 +4,7 @@
 /// A single row in the real-time USSD event logger.
 /// Colour-coded by event type and shows a compact feed line.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';

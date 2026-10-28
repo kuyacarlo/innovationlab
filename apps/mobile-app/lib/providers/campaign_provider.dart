@@ -6,6 +6,7 @@
 /// from mock_data.dart. In production, this would hit a
 /// Firestore collection or REST API.
 /// ============================================================
+library;
 
 import 'package:flutter/foundation.dart';
 import 'package:til_hackathon/models/models.dart';

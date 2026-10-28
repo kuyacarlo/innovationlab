@@ -6,6 +6,7 @@
 /// progress bar, and backer count. Tappable to navigate to
 /// the campaign detail / Solidarity Basket screen.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/linear_percent_indicator.dart';

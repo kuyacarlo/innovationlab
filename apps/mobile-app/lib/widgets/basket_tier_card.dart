@@ -5,6 +5,7 @@
 /// price, description, typical items, and the radical-
 /// transparency cost-breakdown bars.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:til_hackathon/models/solidarity_basket.dart';

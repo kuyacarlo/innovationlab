@@ -10,6 +10,7 @@
 /// Playfair Display for headlines) to give the app a warm,
 /// trustworthy feel during the pitch.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 

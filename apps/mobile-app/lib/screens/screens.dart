@@ -1,4 +1,5 @@
 /// Barrel file for all screens.
+library;
 export 'home_screen.dart';
 export 'basket_screen.dart';
 export 'impact_screen.dart';

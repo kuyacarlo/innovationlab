@@ -6,6 +6,7 @@
 /// campaigns with their funding progress. Each card is
 /// tappable to navigate to the Solidarity Basket subscription.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';

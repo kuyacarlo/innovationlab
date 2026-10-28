@@ -8,6 +8,7 @@
 /// This screen is reached via the "Demo" tab in the bottom
 /// navigation bar. It uses its own TabBar internally.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:til_hackathon/screens/ussd_logger_screen.dart';

@@ -6,6 +6,7 @@
 /// breakdown: exactly how the customer's money flows to seeds,
 /// fertiliser, and the farmer's livelihood.
 /// ============================================================
+library;
 
 class BasketBreakdown {
   /// Label (e.g., "Seeds", "Organic Fertilizer", "Farmer Income").

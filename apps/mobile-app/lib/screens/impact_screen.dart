@@ -7,6 +7,7 @@
 ///     logs) so consumers can see exactly what the farmers
 ///     are doing with their money.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:til_hackathon/models/models.dart';

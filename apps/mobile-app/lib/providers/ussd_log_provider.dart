@@ -5,6 +5,7 @@
 /// dashboard can push new mock events in real time so judges
 /// see the farmer-side interaction come alive.
 /// ============================================================
+library;
 
 import 'package:flutter/foundation.dart';
 import 'package:til_hackathon/models/models.dart';

@@ -6,6 +6,7 @@
 /// breakdown for each tier. Linked to a specific Bungkalan
 /// campaign via route parameter.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

@@ -6,6 +6,7 @@
 /// telco gateway. For the hackathon demo, we generate mock
 /// events to demonstrate the farmer-side interaction.
 /// ============================================================
+library;
 
 enum USSDEventType {
   /// Farmer logging a harvest amount.

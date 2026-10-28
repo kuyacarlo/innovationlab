@@ -10,6 +10,7 @@
 /// A sub-route under /basket/:id handles the Solidarity
 /// Basket subscription screen (pushed on top of the shell).
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';

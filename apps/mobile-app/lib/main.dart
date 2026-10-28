@@ -9,6 +9,7 @@
 ///   2. Applies the earthy Material 3 theme.
 ///   3. Wires up go_router for declarative navigation.
 /// ============================================================
+library;
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

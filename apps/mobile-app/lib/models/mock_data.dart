@@ -4,6 +4,7 @@
 /// Pre-populated data for the hackathon demo. These objects
 /// populate every screen so the pitch deck looks alive.
 /// ============================================================
+library;
 
 import 'package:til_hackathon/models/farm_campaign.dart';
 import 'package:til_hackathon/models/solidarity_basket.dart';
